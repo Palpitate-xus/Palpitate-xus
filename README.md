@@ -4,6 +4,8 @@ I'm Palpitate.xus, a self-motivited student major in Computer Science and Financ
 <img src="https://github-readme-stats.vercel.app/api?username=Palpitate-xus&show_icons=true" alt="my github stats" width="420"/>&nbsp;
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palpitate-xus&layout=compact" alt="languages" height="165"> -->
 </p>
+
+- 📫 How to reach me: [palpitate.xus@outlook.com](mailto:palpitate.xus@outlook.com)
 <!--
 **Palpitate-xus/Palpitate-xus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
