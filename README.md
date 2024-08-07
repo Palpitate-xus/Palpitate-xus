@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Palpitate.xus, a self-motivited student major in NLP.
+I'm Palpitate.xus, a self-motivited student major in Computer Technology.
 ### Education
 -  Computer Science and Finance at ECUST
 -  NLP lab at ECUST
