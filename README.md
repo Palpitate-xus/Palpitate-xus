@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Palpitate.xus, a self-motivited student major in Computer Science and Finance.
+I'm Palpitate.xus, a self-motivited student major in NLP.
+### Education
+-  Computer Science and Finance at ECUST
+-  NLP lab at ECUST
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Palpitate-xus&show_icons=true" alt="my github stats" width="420"/>&nbsp;
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palpitate-xus&layout=compact" alt="languages" height="165"> -->
